@@ -1,0 +1,16 @@
+{
+  "name": "03-bases-de-node",
+  "version": "0.0.1",
+  "description": "Guarda tablas de multiplicar en archivos de texto",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "base3": "node app --base=3"
+  },
+  "author": "Jesús Ramos",
+  "license": "MIT",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "yargs": "^17.6.0"
+  }
+}
